@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @adoniranbayerl!  
 
 ## About Me  
-Not a dev.
+Not a dev.  
 Just doin' stuff.
 
 ---
